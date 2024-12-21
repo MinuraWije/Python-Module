@@ -1,0 +1,3 @@
+Hello world.
+This is my python class
+We are global citizens
